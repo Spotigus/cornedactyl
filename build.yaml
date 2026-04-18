@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: sparkfun_pro_micro_rp2040
+  - board: rp2350
     shield: corne_left
-  - board: sparkfun_pro_micro_rp2040
+  - board: rp2350
     shield: corne_right
